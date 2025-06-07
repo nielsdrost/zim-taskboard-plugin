@@ -1,4 +1,8 @@
-# zim-plugin-template
+## Zim TaskBoard plugin
+
+This is a taskboard plugin for Zim, a Kanban inspired task visualization.
+
+## From zim-plugin-template
 
 This is a bare-bones template repository for [Zim Desktop Wiki](https://zim-wiki.org) plugins.
 
